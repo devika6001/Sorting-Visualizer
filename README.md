@@ -1,3 +1,5 @@
 ### Here is the live preview for this project : https://sorting-algo-visualizer-5.netlify.app/
 
-This project basically takes an array and has 5 algorithms like bubble sort, quick sort, insertion sort, selection sort and merge sort. We can choose either of the sorting algorithm and can see it getting sorted. This is build entirely using React.js.
+• Designed and implemented a proficient sorting algorithm visualizer, showcasing 5 algorithms (Bubble Sort, Merge Sort, Quick Sort, Selection Sort, and Insertion Sort), resulting in an improved understanding of sorting processes.
+• Technologies used: HTML, CSS, JavaScript, ReactJS.
+
